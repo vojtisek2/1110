@@ -1,0 +1,24 @@
+header{
+    background-color: aqua;
+    padding: 30px;
+    text-align: center;
+}
+nav {
+    float: left;
+    width: 25%;
+    height: 300px; 
+    background: #e30a0a;
+   
+}
+article {
+    float: right;
+    width: 75%;
+    background-color: #00ff04;
+    height: 300px; 
+  }
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
